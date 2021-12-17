@@ -93,7 +93,7 @@ Team Lead:
 Michelle Ng
 
 Team Members: 
-Anthony Johnson (Unit Testing: Front-End)
+Anthony Johnson (Unit Testing: Front-End),
 Deepthi Ramana (Unit Testing: Back-End)
 
 License
