@@ -24,7 +24,6 @@ Technologies Used
 * Hibernate
 * Jasmine
 * Karma
-* …
 
 Project Requirements
 -----
@@ -83,11 +82,7 @@ To-do list:
 
 Getting Started
 -----
-WORK IN PROGRESS
-
-Usage
------
-WORK IN PROGRESS
+git clone `https://github.com/michelleyharper/mediciERS-2.0.git`
 
 Contributors
 -----
@@ -97,7 +92,3 @@ Michelle Ng
 Team Members: 
 Anthony Johnson (Unit Testing: Front-End),
 Deepthi Ramana (Unit Testing: Back-End)
-
-License
------
-WORK IN PROGRESS
