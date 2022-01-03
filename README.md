@@ -13,9 +13,9 @@ Technologies Used
 * Java (Programming Language) - version 11.0.12
 * Eclipse (IDE)
 * Apache Maven (Project Management)
-* JDBC (Java Database Connectivity)
 * PostgreSQL (Database)
 * Apache Log4j2 (Logging Utility)
+* Spring Data
 * JUnit 5 (Testing Framework)
 * Angular2+ (Web Framework)
 * Microsoft Visual Studio Code (Source Code Editor)
