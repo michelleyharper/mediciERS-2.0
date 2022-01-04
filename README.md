@@ -11,19 +11,20 @@ This project includes a significant enhancement of the first Medici Expense Reim
 Technologies Used
 -----
 * Java (Programming Language) - version 11.0.12
+* TypeScript (Programming Language)
+* HTML (HyperText Markup Language)
+* CSS / SCSS (Cascading Style Sheets)
 * Eclipse (IDE)
 * Apache Maven (Project Management)
 * PostgreSQL (Database)
 * Apache Log4j2 (Logging Utility)
-* Spring Data
-* JUnit 5 (Testing Framework)
+* Hibernate ORM (Object Relational-Mapping Tool)
+* Spring Framework (Spring Boot, Spring Data, Spring Web, Spring AOP)
+* JUnit 5 (Testing Framework - Back)
 * Angular2+ (Web Framework)
+* Jasmine / Karma (Testing Framework - Front)
 * Microsoft Visual Studio Code (Source Code Editor)
-* Postman (API Framework)
-* Spring
-* Hibernate
-* Jasmine
-* Karma
+* Postman (API Platform)
 
 Project Requirements
 -----
